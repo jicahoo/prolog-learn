@@ -9,3 +9,8 @@
 
 ## unify ( like Scaca pattern match, just a little bit like)
 * https://cse3521.artifice.cc/prolog-unification.html
+
+
+## Reference
+* https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2.html
+* http://athena.ecs.csus.edu/~mei/logicp/prolog/programming-examples.html
